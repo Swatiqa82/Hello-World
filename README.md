@@ -1,5 +1,5 @@
 # Hello-World
 Just Another Repository
-This is my Hello Universe Git basics. 
+This is my Hello Santa Clara Git basics. 
 
 
